@@ -1,0 +1,24 @@
+Hecho:
+
+- Organizacion del proyecto
+- Compatibilidad de los subproyectos
+- Organizacion sub-proyecto "Shared" && "Server"
+
+Para hacer:
+
+- Estructurar sub-proyecto "Client" para la funcionalidad de las salas
+- Adecuar la modalidad de salas a nuestro proyecto (imgs, sonidos, tipografias)
+- Verificar funcionalidad de las salas
+- Modelar el multijugador
+
+-- A tener en cuenta --
+
+1) Se cambiaron algunos nombres con respecto al codigo de Marco.
+2) Para el proyecto "Client" es necesario filtrar la logica de los handlers creados para la segunda entrega, con los necesarios para el menu.
+3) La clase Config se duplica entre "Shared" y "Client" porque la mudanza de los scene a "Client" es temporal. Se corrige con seguir la estructura del codigo de Marco.
+4) En "Client", en el paquete "road_fighter.scenes" esta incluida la clase RoadFighter. Es necesario evaluar si debe permacecer en "Shared" o no. En general, que clases deben permanecer en "Shared" y cuales no.
+
+--- (4) ---
+
+En realidad, tanto la logica de RoadFighter como GameSceneHandler (ambas clases de nuestro RoadFighter), puede ser vista en las clases Main, Client (Proyecto Client, paquete road_fighter) y Game, SceneHandler (Proyecto Client, paquete road_fighter.escenas) del codigo de Marco.
+Luego, las clases de los "paquetes road_fighter.entidades.menu" y "paquete road_fighter.escenas restantes", se encargan de las funcionalidades de las salas.

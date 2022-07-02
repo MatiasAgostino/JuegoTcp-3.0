@@ -1,0 +1,222 @@
+2022-07-02 02:15:10,095 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-07-02 02:15:18,527 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tcp:Client:0.0.1-SNAPSHOT @ C:\Users\Usuario\Desktop\Trabajo\Tcp3\Nuestro\TcpFinal\RoadFighter\Client\pom.xml.
+2022-07-02 02:15:18,843 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:15:18,848 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 58 resources
+2022-07-02 02:15:18,999 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:15:19,000 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-02 02:15:19,306 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tcp:Client:0.0.1-SNAPSHOT @ C:\Users\Usuario\Desktop\Trabajo\Tcp3\Nuestro\TcpFinal\RoadFighter\Client\pom.xml.
+2022-07-02 02:15:19,341 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: tcp:RoadFighter:0.0.1-SNAPSHOT @ C:\Users\Usuario\Desktop\Trabajo\Tcp3\Nuestro\TcpFinal\RoadFighter\pom.xml.
+2022-07-02 02:15:19,368 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tcp:Client:0.0.1-SNAPSHOT @ C:\Users\Usuario\Desktop\Trabajo\Tcp3\Nuestro\TcpFinal\RoadFighter\Client\pom.xml.
+2022-07-02 02:15:19,600 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tcp:Server:0.0.1-SNAPSHOT @ C:\Users\Usuario\Desktop\Trabajo\Tcp3\Nuestro\TcpFinal\RoadFighter\Server\pom.xml.
+2022-07-02 02:15:19,899 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:15:19,900 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-02 02:15:19,902 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:15:19,902 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-02 02:15:20,088 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tcp:Shared:0.0.1-SNAPSHOT @ C:\Users\Usuario\Desktop\Trabajo\Tcp3\Nuestro\TcpFinal\RoadFighter\Shared\pom.xml.
+2022-07-02 02:15:20,131 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tcp:Client:0.0.1-SNAPSHOT @ C:\Users\Usuario\Desktop\Trabajo\Tcp3\Nuestro\TcpFinal\RoadFighter\Client\pom.xml.
+2022-07-02 02:15:20,136 [Worker-0: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Shared: tcp:Shared:0.0.1-SNAPSHOT with classifier  to /Shared/target/classes
+2022-07-02 02:15:20,169 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tcp:Server:0.0.1-SNAPSHOT @ C:\Users\Usuario\Desktop\Trabajo\Tcp3\Nuestro\TcpFinal\RoadFighter\Server\pom.xml.
+2022-07-02 02:15:20,170 [Worker-0: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Shared: tcp:Shared:0.0.1-SNAPSHOT with classifier  to /Shared/target/classes
+2022-07-02 02:15:20,227 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:15:20,228 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 55 resources
+2022-07-02 02:15:20,383 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:15:20,384 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-02 02:15:21,096 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tcp:Client:0.0.1-SNAPSHOT @ C:\Users\Usuario\Desktop\Trabajo\Tcp3\Nuestro\TcpFinal\RoadFighter\Client\pom.xml.
+2022-07-02 02:15:21,115 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Shared: tcp:Shared:0.0.1-SNAPSHOT with classifier  to /Shared/target/classes
+2022-07-02 02:15:21,714 [Worker-2: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Shared: tcp:Shared:0.0.1-SNAPSHOT with classifier  to /Shared/target/classes
+2022-07-02 02:15:21,721 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:15:21,727 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 58 resources
+2022-07-02 02:15:21,851 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:15:21,851 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-02 02:15:21,979 [Worker-2: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Shared: tcp:Shared:0.0.1-SNAPSHOT with classifier  to /Shared/target/classes
+2022-07-02 02:15:21,983 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:15:21,984 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-02 02:15:21,984 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:15:21,984 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-02 02:15:22,159 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:15:22,163 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 55 resources
+2022-07-02 02:15:22,263 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:15:22,264 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-02 02:15:23,461 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:15:23,465 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 58 resources
+2022-07-02 02:15:23,470 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:15:23,470 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-02 02:15:33,733 [Worker-10: Launching Executing install in C__Users_Usuario_Desktop_Trabajo_Tcp3_Nuestro_TcpFinal_RoadFighter] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Usuario\Desktop\Trabajo\Tcp3\Nuestro\TcpFinal\RoadFighter
+2022-07-02 02:15:33,737 [Worker-10: Launching Executing install in C__Users_Usuario_Desktop_Trabajo_Tcp3_Nuestro_TcpFinal_RoadFighter] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2022-07-02 02:15:36,681 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:15:36,681 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-02 02:15:36,682 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:15:36,682 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-02 02:15:36,688 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:15:36,688 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-02 02:15:36,690 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:15:36,690 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-02 02:15:36,695 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:15:36,695 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-02 02:15:36,696 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:15:36,696 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-02 02:15:41,284 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:15:41,284 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-02 02:15:41,285 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:15:41,285 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-02 02:15:41,290 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:15:41,290 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-02 02:15:41,291 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:15:41,291 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-02 02:15:41,295 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:15:41,295 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-02 02:15:41,296 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:15:41,296 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-02 02:15:44,152 [Worker-19: Launching Server] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Shared: tcp:Shared:0.0.1-SNAPSHOT with classifier null to /Shared/target/classes
+2022-07-02 02:15:44,166 [Worker-19: Launching Server] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Shared: tcp:Shared:0.0.1-SNAPSHOT with classifier null to /Shared/target/classes
+2022-07-02 02:15:44,177 [Worker-19: Launching Server] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Shared: tcp:Shared:0.0.1-SNAPSHOT with classifier null to /Shared/target/classes
+2022-07-02 02:15:48,438 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-07-02 02:15:53,398 [Worker-25: Launching Client] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Usuario\Desktop\Trabajo\Tcp3\Nuestro\TcpFinal\RoadFighter\Client
+2022-07-02 02:15:53,399 [Worker-25: Launching Client] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B javafx:run
+2022-07-02 02:17:31,117 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:17:31,120 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 58 resources
+2022-07-02 02:17:31,125 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:17:31,125 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-02 02:17:32,503 [Worker-24: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Shared: tcp:Shared:0.0.1-SNAPSHOT with classifier null to /Shared/target/classes
+2022-07-02 02:17:32,514 [Worker-24: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Shared: tcp:Shared:0.0.1-SNAPSHOT with classifier null to /Shared/target/classes
+2022-07-02 02:17:32,528 [Worker-24: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Shared: tcp:Shared:0.0.1-SNAPSHOT with classifier null to /Shared/target/classes
+2022-07-02 02:17:39,333 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2022-07-02 02:17:39,387 [Worker-1: Launching Client] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Usuario\Desktop\Trabajo\Tcp3\Nuestro\TcpFinal\RoadFighter\Client
+2022-07-02 02:17:39,388 [Worker-1: Launching Client] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B javafx:run
+2022-07-02 02:18:09,037 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:18:09,041 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 55 resources
+2022-07-02 02:18:09,045 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:18:09,045 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-02 02:18:10,298 [Worker-1: Launching Client] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Usuario\Desktop\Trabajo\Tcp3\Nuestro\TcpFinal\RoadFighter\Client
+2022-07-02 02:18:10,298 [Worker-1: Launching Client] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B javafx:run
+2022-07-02 02:18:35,432 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:18:35,435 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 55 resources
+2022-07-02 02:18:35,439 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:18:35,440 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-02 02:18:36,769 [Worker-2: Launching Client] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Usuario\Desktop\Trabajo\Tcp3\Nuestro\TcpFinal\RoadFighter\Client
+2022-07-02 02:18:36,769 [Worker-2: Launching Client] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B javafx:run
+2022-07-02 02:18:43,177 [Worker-27: Launching Client] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Usuario\Desktop\Trabajo\Tcp3\Nuestro\TcpFinal\RoadFighter\Client
+2022-07-02 02:18:43,177 [Worker-27: Launching Client] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B javafx:run
+2022-07-02 02:18:54,584 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:18:54,588 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 58 resources
+2022-07-02 02:18:54,592 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:18:54,593 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-02 02:18:54,639 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:18:54,642 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 55 resources
+2022-07-02 02:18:54,647 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:18:54,647 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-02 02:19:39,220 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-07-02 02:20:17,401 [Worker-26: Launching Executing install in C__Users_Usuario_Desktop_Trabajo_Tcp3_Nuestro_TcpFinal_RoadFighter] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Usuario\Desktop\Trabajo\Tcp3\Nuestro\TcpFinal\RoadFighter
+2022-07-02 02:20:17,404 [Worker-26: Launching Executing install in C__Users_Usuario_Desktop_Trabajo_Tcp3_Nuestro_TcpFinal_RoadFighter] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2022-07-02 02:20:20,718 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:20:20,722 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 55 resources
+2022-07-02 02:20:20,730 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:20:20,730 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-02 02:20:20,930 [Worker-1: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Shared: tcp:Shared:0.0.1-SNAPSHOT with classifier  to /Shared/target/classes
+2022-07-02 02:20:20,936 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:20:20,937 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-02 02:20:20,938 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:20:20,938 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-02 02:20:21,066 [Worker-1: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Shared: tcp:Shared:0.0.1-SNAPSHOT with classifier  to /Shared/target/classes
+2022-07-02 02:20:21,071 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:20:21,072 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 58 resources
+2022-07-02 02:20:21,077 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:20:21,077 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-02 02:20:34,233 [Worker-14: Launching Server] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Shared: tcp:Shared:0.0.1-SNAPSHOT with classifier null to /Shared/target/classes
+2022-07-02 02:20:34,246 [Worker-14: Launching Server] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Shared: tcp:Shared:0.0.1-SNAPSHOT with classifier null to /Shared/target/classes
+2022-07-02 02:20:34,256 [Worker-14: Launching Server] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Shared: tcp:Shared:0.0.1-SNAPSHOT with classifier null to /Shared/target/classes
+2022-07-02 02:20:37,934 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2022-07-02 02:20:37,961 [Worker-16: Launching Client] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Usuario\Desktop\Trabajo\Tcp3\Nuestro\TcpFinal\RoadFighter\Client
+2022-07-02 02:20:37,962 [Worker-16: Launching Client] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B javafx:run
+2022-07-02 02:21:24,763 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:21:24,768 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 55 resources
+2022-07-02 02:21:24,773 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:21:24,773 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-02 02:22:42,756 [Worker-7: Launching Client] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Usuario\Desktop\Trabajo\Tcp3\Nuestro\TcpFinal\RoadFighter\Client
+2022-07-02 02:22:42,757 [Worker-7: Launching Client] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B javafx:run
+2022-07-02 02:24:51,444 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:24:51,447 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 58 resources
+2022-07-02 02:24:51,452 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:24:51,452 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-02 02:24:52,737 [Worker-7: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Shared: tcp:Shared:0.0.1-SNAPSHOT with classifier null to /Shared/target/classes
+2022-07-02 02:24:52,747 [Worker-7: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Shared: tcp:Shared:0.0.1-SNAPSHOT with classifier null to /Shared/target/classes
+2022-07-02 02:24:52,758 [Worker-7: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Shared: tcp:Shared:0.0.1-SNAPSHOT with classifier null to /Shared/target/classes
+2022-07-02 02:24:58,446 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2022-07-02 02:24:58,495 [Worker-5: Launching Client] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Usuario\Desktop\Trabajo\Tcp3\Nuestro\TcpFinal\RoadFighter\Client
+2022-07-02 02:24:58,495 [Worker-5: Launching Client] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B javafx:run
+2022-07-02 02:25:04,847 [Worker-20: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Shared: tcp:Shared:0.0.1-SNAPSHOT with classifier null to /Shared/target/classes
+2022-07-02 02:25:04,859 [Worker-20: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Shared: tcp:Shared:0.0.1-SNAPSHOT with classifier null to /Shared/target/classes
+2022-07-02 02:25:04,869 [Worker-20: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Shared: tcp:Shared:0.0.1-SNAPSHOT with classifier null to /Shared/target/classes
+2022-07-02 02:25:08,829 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2022-07-02 02:25:08,875 [Worker-6: Launching Client] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Usuario\Desktop\Trabajo\Tcp3\Nuestro\TcpFinal\RoadFighter\Client
+2022-07-02 02:25:08,875 [Worker-6: Launching Client] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B javafx:run
+2022-07-02 02:25:57,411 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:25:57,414 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 58 resources
+2022-07-02 02:25:57,419 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:25:57,419 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-02 02:27:44,419 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:27:44,422 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 58 resources
+2022-07-02 02:27:44,427 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:27:44,427 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-02 02:27:59,885 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:27:59,888 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 58 resources
+2022-07-02 02:27:59,894 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:27:59,894 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-02 02:29:53,573 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:29:53,576 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 58 resources
+2022-07-02 02:29:53,581 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:29:53,581 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-02 02:30:24,582 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:30:24,585 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 58 resources
+2022-07-02 02:30:24,588 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:30:24,588 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-02 02:30:31,150 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:30:31,153 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 58 resources
+2022-07-02 02:30:31,157 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:30:31,158 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-02 02:32:07,640 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:32:07,644 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 58 resources
+2022-07-02 02:32:07,648 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:32:07,648 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-02 02:32:45,509 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:32:45,512 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 58 resources
+2022-07-02 02:32:45,516 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:32:45,517 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-02 02:32:51,087 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:32:51,090 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 58 resources
+2022-07-02 02:32:51,094 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:32:51,094 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-02 02:32:52,802 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:32:52,805 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 58 resources
+2022-07-02 02:32:52,809 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:32:52,810 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-02 02:32:54,957 [Worker-7: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Shared: tcp:Shared:0.0.1-SNAPSHOT with classifier null to /Shared/target/classes
+2022-07-02 02:32:54,967 [Worker-7: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Shared: tcp:Shared:0.0.1-SNAPSHOT with classifier null to /Shared/target/classes
+2022-07-02 02:32:54,979 [Worker-7: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Shared: tcp:Shared:0.0.1-SNAPSHOT with classifier null to /Shared/target/classes
+2022-07-02 02:33:00,797 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2022-07-02 02:33:00,840 [Worker-2: Launching Client] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Usuario\Desktop\Trabajo\Tcp3\Nuestro\TcpFinal\RoadFighter\Client
+2022-07-02 02:33:00,840 [Worker-2: Launching Client] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B javafx:run
+2022-07-02 02:33:08,523 [Worker-5: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Shared: tcp:Shared:0.0.1-SNAPSHOT with classifier null to /Shared/target/classes
+2022-07-02 02:33:08,533 [Worker-5: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Shared: tcp:Shared:0.0.1-SNAPSHOT with classifier null to /Shared/target/classes
+2022-07-02 02:33:08,543 [Worker-5: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Shared: tcp:Shared:0.0.1-SNAPSHOT with classifier null to /Shared/target/classes
+2022-07-02 02:33:14,798 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2022-07-02 02:33:14,842 [Worker-4: Launching Client] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Usuario\Desktop\Trabajo\Tcp3\Nuestro\TcpFinal\RoadFighter\Client
+2022-07-02 02:33:14,842 [Worker-4: Launching Client] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B javafx:run
+2022-07-02 02:34:12,755 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:34:12,758 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 58 resources
+2022-07-02 02:34:12,762 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:34:12,763 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-02 02:34:13,896 [Worker-2: Launching Client] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Usuario\Desktop\Trabajo\Tcp3\Nuestro\TcpFinal\RoadFighter\Client
+2022-07-02 02:34:13,896 [Worker-2: Launching Client] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B javafx:run
+2022-07-02 02:34:37,962 [Worker-5: Launching Client] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Usuario\Desktop\Trabajo\Tcp3\Nuestro\TcpFinal\RoadFighter\Client
+2022-07-02 02:34:37,964 [Worker-5: Launching Client] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B javafx:run
+2022-07-02 02:51:21,950 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:51:21,950 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-02 02:51:21,954 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-02 02:51:21,954 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-02 02:51:23,740 [Worker-32: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Shared: tcp:Shared:0.0.1-SNAPSHOT with classifier null to /Shared/target/classes
+2022-07-02 02:51:23,748 [Worker-32: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Shared: tcp:Shared:0.0.1-SNAPSHOT with classifier null to /Shared/target/classes
+2022-07-02 02:51:23,758 [Worker-32: Launching Main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/Shared: tcp:Shared:0.0.1-SNAPSHOT with classifier null to /Shared/target/classes
+2022-07-02 02:51:28,796 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2022-07-02 02:51:28,838 [Worker-31: Launching Client] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Usuario\Desktop\Trabajo\Tcp3\Nuestro\TcpFinal\RoadFighter\Client
+2022-07-02 02:51:28,838 [Worker-31: Launching Client] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B javafx:run

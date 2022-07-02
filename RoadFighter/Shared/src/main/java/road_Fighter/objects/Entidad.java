@@ -1,0 +1,6 @@
+package road_Fighter.objects;
+
+public enum Entidad {
+	AUTO, BORDE, JUGADOR, META, OBSTACULO, POWERUP, TEXT, ESCENARIO, 
+	GUARDARAIL, HABILIDAD, BUILDER, PISTA, SCORE;
+}
